@@ -1,2 +1,2 @@
 # Basic Data Visualization
-### Using numpy module for data handling
+### Using pandas module for data handling
